@@ -1,4 +1,4 @@
-libstrophe [![Build Status](https://github.com/strophe/libstrophe/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/strophe/libstrophe/actions/workflows/main.yml?query=branch%3Amaster+++)
+ libstrophe [![Build Status](https://github.com/strophe/libstrophe/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/strophe/libstrophe/actions/workflows/main.yml?query=branch%3Amaster+++)
 ==========
 
 libstrophe is a lightweight XMPP client library written in C. It has
